@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Dong 1
 Dong 2
 thay doi tren nhanh okls
+=======
+thay doi tren okls2
+>>>>>>> okls2
